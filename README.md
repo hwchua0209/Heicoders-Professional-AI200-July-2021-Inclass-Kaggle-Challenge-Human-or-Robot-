@@ -5,4 +5,4 @@ This InClass Prediction Challenge is modelled after the 2015 Facebook Recruitmen
 
 
 ## Collaborators
-https://github.com/Menghanlimsdchttps://github.com/Menghanlimhttps://github.com/Menghanlimhttps://github.com/Menghanlimhttps://github.com/Menghanlimhttps://github.com/Menghanlimhttps://github.com/Menghanlimhttps://github.com/Menghanlimhttps://github.com/Menghanlimhttps://github.com/Menghanlimhttps://github.com/Menghanlim
+[Lim MengHan](https://github.com/Menghanlim)
